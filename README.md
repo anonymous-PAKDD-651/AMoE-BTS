@@ -1,7 +1,6 @@
 # AMoE-BTS
 
 > **Adaptive Mixture of Experts for Personalized Modality Importance in Brain Tumor Segmentation(2024)**<br>
-> [Jeongeun Kim],[Youngwan Jo], [Sunghyun Ahn], and [Sanghyun Park]<br>
 
 ## Overview
 <div align="center">
